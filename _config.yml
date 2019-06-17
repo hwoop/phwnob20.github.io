@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "hwoops"
+title                    : "hwoop's 이것 저것"
 title_separator          : "-"
 name                     : "Hyunwoo Park"
 description              : "Hyunwoo's blog"
@@ -34,8 +34,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    https://www.facebook.com/hw96.park
+  facebook               : "https://www.facebook.com/hw96.park"
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -85,7 +84,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
